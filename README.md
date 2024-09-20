@@ -1,3 +1,3 @@
 # CS411
 
-stuff for HW1
+stuff for cs411
